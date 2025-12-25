@@ -8,9 +8,7 @@
   A curated collection of high-quality resources, tools, models, APIs, and datasets related to Generative AI.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-</p>
+
 
 ---
 
